@@ -19,7 +19,6 @@
 //   console.info(addr)
 // })
 
-console.log('1111');
 
 /*eslint-disable */
 console.log("1111")
